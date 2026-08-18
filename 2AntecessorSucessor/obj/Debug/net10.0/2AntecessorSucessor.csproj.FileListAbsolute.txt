@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/bin/Debug/net10.0/2AntecessorSucessor
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/bin/Debug/net10.0/2AntecessorSucessor.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/bin/Debug/net10.0/2AntecessorSucessor.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/bin/Debug/net10.0/2AntecessorSucessor.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/bin/Debug/net10.0/2AntecessorSucessor.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/2AntecessorSucessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/2AntecessorSucessor.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/2AntecessorSucessor.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/2AntecessorSucessor.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/2AntecessorSucessor.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/refint/2AntecessorSucessor.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/2AntecessorSucessor.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/2AntecessorSucessor.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/2AntecessorSucessor/obj/Debug/net10.0/ref/2AntecessorSucessor.dll
