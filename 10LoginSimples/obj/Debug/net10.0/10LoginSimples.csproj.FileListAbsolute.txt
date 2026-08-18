@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/bin/Debug/net10.0/10LoginSimples
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/bin/Debug/net10.0/10LoginSimples.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/bin/Debug/net10.0/10LoginSimples.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/bin/Debug/net10.0/10LoginSimples.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/bin/Debug/net10.0/10LoginSimples.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/10LoginSimples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/10LoginSimples.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/10LoginSimples.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/10LoginSimples.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/10LoginSimples.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/refint/10LoginSimples.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/10LoginSimples.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/10LoginSimples.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/10LoginSimples/obj/Debug/net10.0/ref/10LoginSimples.dll
