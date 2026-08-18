@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/bin/Debug/net10.0/4ConversorMoedas
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/bin/Debug/net10.0/4ConversorMoedas.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/bin/Debug/net10.0/4ConversorMoedas.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/bin/Debug/net10.0/4ConversorMoedas.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/bin/Debug/net10.0/4ConversorMoedas.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/4ConversorMoedas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/4ConversorMoedas.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/4ConversorMoedas.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/4ConversorMoedas.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/4ConversorMoedas.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/refint/4ConversorMoedas.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/4ConversorMoedas.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/4ConversorMoedas.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/4ConversorMoedas/obj/Debug/net10.0/ref/4ConversorMoedas.dll
