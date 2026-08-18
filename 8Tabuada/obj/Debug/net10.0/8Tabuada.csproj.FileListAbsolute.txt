@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/bin/Debug/net10.0/8Tabuada
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/bin/Debug/net10.0/8Tabuada.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/bin/Debug/net10.0/8Tabuada.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/bin/Debug/net10.0/8Tabuada.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/bin/Debug/net10.0/8Tabuada.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/8Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/8Tabuada.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/8Tabuada.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/8Tabuada.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/8Tabuada.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/refint/8Tabuada.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/8Tabuada.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/8Tabuada.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/8Tabuada/obj/Debug/net10.0/ref/8Tabuada.dll
