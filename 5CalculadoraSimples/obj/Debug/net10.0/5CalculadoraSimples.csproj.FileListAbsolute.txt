@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/bin/Debug/net10.0/5CalculadoraSimples
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/bin/Debug/net10.0/5CalculadoraSimples.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/bin/Debug/net10.0/5CalculadoraSimples.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/bin/Debug/net10.0/5CalculadoraSimples.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/bin/Debug/net10.0/5CalculadoraSimples.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/5CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/5CalculadoraSimples.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/5CalculadoraSimples.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/5CalculadoraSimples.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/5CalculadoraSimples.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/refint/5CalculadoraSimples.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/5CalculadoraSimples.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/5CalculadoraSimples.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/5CalculadoraSimples/obj/Debug/net10.0/ref/5CalculadoraSimples.dll
