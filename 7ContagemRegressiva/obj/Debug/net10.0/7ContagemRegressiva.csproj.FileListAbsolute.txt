@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/bin/Debug/net10.0/7ContagemRegressiva
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/bin/Debug/net10.0/7ContagemRegressiva.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/bin/Debug/net10.0/7ContagemRegressiva.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/bin/Debug/net10.0/7ContagemRegressiva.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/bin/Debug/net10.0/7ContagemRegressiva.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/7ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/7ContagemRegressiva.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/7ContagemRegressiva.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/7ContagemRegressiva.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/7ContagemRegressiva.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/refint/7ContagemRegressiva.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/7ContagemRegressiva.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/7ContagemRegressiva.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/7ContagemRegressiva/obj/Debug/net10.0/ref/7ContagemRegressiva.dll
