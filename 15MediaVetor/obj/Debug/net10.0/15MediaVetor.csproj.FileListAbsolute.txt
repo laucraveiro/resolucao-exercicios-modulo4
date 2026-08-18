@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/bin/Debug/net10.0/15MediaVetor
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/bin/Debug/net10.0/15MediaVetor.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/bin/Debug/net10.0/15MediaVetor.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/bin/Debug/net10.0/15MediaVetor.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/bin/Debug/net10.0/15MediaVetor.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/15MediaVetor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/15MediaVetor.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/15MediaVetor.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/15MediaVetor.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/15MediaVetor.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/refint/15MediaVetor.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/15MediaVetor.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/15MediaVetor.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/15MediaVetor/obj/Debug/net10.0/ref/15MediaVetor.dll
