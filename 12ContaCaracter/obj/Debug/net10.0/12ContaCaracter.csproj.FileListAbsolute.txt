@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/bin/Debug/net10.0/12ContaCaracter
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/bin/Debug/net10.0/12ContaCaracter.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/bin/Debug/net10.0/12ContaCaracter.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/bin/Debug/net10.0/12ContaCaracter.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/bin/Debug/net10.0/12ContaCaracter.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/12ContaCaracter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/12ContaCaracter.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/12ContaCaracter.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/12ContaCaracter.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/12ContaCaracter.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/refint/12ContaCaracter.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/12ContaCaracter.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/12ContaCaracter.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/12ContaCaracter/obj/Debug/net10.0/ref/12ContaCaracter.dll
