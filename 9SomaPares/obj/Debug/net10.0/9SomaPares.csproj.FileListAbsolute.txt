@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/bin/Debug/net10.0/9SomaPares
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/bin/Debug/net10.0/9SomaPares.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/bin/Debug/net10.0/9SomaPares.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/bin/Debug/net10.0/9SomaPares.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/bin/Debug/net10.0/9SomaPares.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/9SomaPares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/9SomaPares.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/9SomaPares.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/9SomaPares.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/9SomaPares.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/refint/9SomaPares.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/9SomaPares.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/9SomaPares.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/9SomaPares/obj/Debug/net10.0/ref/9SomaPares.dll
