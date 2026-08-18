@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/bin/Debug/net10.0/17OrdemInversa
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/bin/Debug/net10.0/17OrdemInversa.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/bin/Debug/net10.0/17OrdemInversa.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/bin/Debug/net10.0/17OrdemInversa.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/bin/Debug/net10.0/17OrdemInversa.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/17OrdemInversa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/17OrdemInversa.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/17OrdemInversa.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/17OrdemInversa.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/17OrdemInversa.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/refint/17OrdemInversa.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/17OrdemInversa.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/17OrdemInversa.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/17OrdemInversa/obj/Debug/net10.0/ref/17OrdemInversa.dll
