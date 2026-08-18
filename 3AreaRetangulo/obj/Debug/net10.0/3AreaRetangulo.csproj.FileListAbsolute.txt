@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/bin/Debug/net10.0/3AreaRetangulo
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/bin/Debug/net10.0/3AreaRetangulo.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/bin/Debug/net10.0/3AreaRetangulo.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/bin/Debug/net10.0/3AreaRetangulo.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/bin/Debug/net10.0/3AreaRetangulo.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/3AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/3AreaRetangulo.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/3AreaRetangulo.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/3AreaRetangulo.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/3AreaRetangulo.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/refint/3AreaRetangulo.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/3AreaRetangulo.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/3AreaRetangulo.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/3AreaRetangulo/obj/Debug/net10.0/ref/3AreaRetangulo.dll
