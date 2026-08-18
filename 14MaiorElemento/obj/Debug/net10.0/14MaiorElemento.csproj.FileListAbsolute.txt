@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/bin/Debug/net10.0/14MaiorElemento
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/bin/Debug/net10.0/14MaiorElemento.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/bin/Debug/net10.0/14MaiorElemento.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/bin/Debug/net10.0/14MaiorElemento.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/bin/Debug/net10.0/14MaiorElemento.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/14MaiorElemento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/14MaiorElemento.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/14MaiorElemento.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/14MaiorElemento.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/14MaiorElemento.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/refint/14MaiorElemento.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/14MaiorElemento.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/14MaiorElemento.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/14MaiorElemento/obj/Debug/net10.0/ref/14MaiorElemento.dll
