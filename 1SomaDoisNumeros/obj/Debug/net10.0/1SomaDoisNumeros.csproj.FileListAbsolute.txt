@@ -1,0 +1,14 @@
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/bin/Debug/net10.0/1SomaDoisNumeros
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/bin/Debug/net10.0/1SomaDoisNumeros.deps.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/bin/Debug/net10.0/1SomaDoisNumeros.runtimeconfig.json
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/bin/Debug/net10.0/1SomaDoisNumeros.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/bin/Debug/net10.0/1SomaDoisNumeros.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/1SomaDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/1SomaDoisNumeros.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/1SomaDoisNumeros.AssemblyInfo.cs
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/1SomaDoisNumeros.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/1SomaDoisNumeros.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/refint/1SomaDoisNumeros.dll
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/1SomaDoisNumeros.pdb
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/1SomaDoisNumeros.genruntimeconfig.cache
+/Users/usuario/Desktop/cursodotnet/ResolucoesModulo4/1SomaDoisNumeros/obj/Debug/net10.0/ref/1SomaDoisNumeros.dll
